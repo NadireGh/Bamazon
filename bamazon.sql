@@ -44,6 +44,7 @@ TotalSales decimal(10,4) NOT NULL
 );
 
 
+
 INSERT INTO Departments(DepartmentName, OverHeadCosts, TotalSales)
 VALUES ("grocery", 10500.00, -10000.00), 
   ("electronics", 25000.00, 0.00),
