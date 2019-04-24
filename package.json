@@ -20,7 +20,8 @@
   "dependencies": {
     "cli-color": "^1.4.0",
     "inquirer": "^6.2.2",
-    "mysql": "^2.16.0"
+    "mysql": "^2.16.0",
+    "prompt": "^1.0.0"
   },
   "devDependencies": {}
 }
