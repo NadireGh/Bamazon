@@ -39,11 +39,17 @@ Please refer to the bamazon.sql file to see how the database was created using S
 * npm init -y
 * node bamazonCustomer.js/ node bamazonManager.js
 
+### ScreenShots
 
+![alt text](Image/ReadMe1.png )
 
+![alt text](Image/ReadMe2.png )
 
+![alt text](Image/ReadMe3.png )
 
+![alt text](Image/ReadMe4.png )
 
+![alt text](Image/ReadMe5.png )
 
 
 
